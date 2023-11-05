@@ -1,7 +1,7 @@
 # template-game-tailwind
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Screenshot (18)](https://github.com/REZA-OJAGHI-DRO/template-designer-tailwind/assets/145910720/fe586d6f-e8f9-4776-a968-3ae99e3f8043)
+![Screenshot (20)](https://github.com/REZA-OJAGHI-DRO/template-game-tailwind/assets/145910720/3fa2877d-8b64-4a7f-8316-4a7957a76f27)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/template-game-tailwind/)
  
